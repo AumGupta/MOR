@@ -1,0 +1,56 @@
+# DDL Commands (26TH MARCH DEADLINE)
+
+Practical 1
+Database and DDL command without constraints
+
+Practical 2
+DDL commands with constraints
+- without foreign key
+- with foreign key
+
+Practical 3
+Update DDL structures: Alter, Set, Update ,etc
+
+
+# DML command structure (15TH APRIL DEADLINE)
+
+Practical 4 
+Steps to Import database and perform at least 15 queries using select, *, distinct, literal select, case end, from, where, order by
+
+
+Practical 5
+Perform at least 15 queries using keywords select, from, offset and fetch, limit, (pattern match), 
+
+Practical 6
+Perform at least 15 queries using keywords, group by, having, order by
+
+Practical 7
+Perform at least 20 queries using combination of all the above keywords/concepts.
+
+Practical 8
+Perform at least 10 queries based on set operations
+
+Practical 9
+Perform at least 15 queries using join(s)
+
+Practical 10
+Perform at least 10 queries related to sub-queries and corelated sub-queries
+
+-----------------------------------
+
+SELECT * FROM PERSON.STATEPROVINCE
+WHERE STATEPROVINCECODE
+LIKE 
+
+
+
+
+
+
+
+
+
+
+
+
+
